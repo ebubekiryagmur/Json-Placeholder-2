@@ -38,7 +38,7 @@ async function fetchUsers(){
   }
   
   
-  
+
   function addToggleListeners() {
     const toggleDetails = document.querySelectorAll(".toggle-details");
     toggleDetails.forEach((item) => {
